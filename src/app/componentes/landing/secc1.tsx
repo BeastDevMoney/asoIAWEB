@@ -4,8 +4,6 @@ import { motion } from "framer-motion";
 import Flecha from "../../../../public/flechaSeccion1.png";
 import mano from "../../../../public/manoPrototipoSeccion1.png";
 import fondo from "../../../../public/fondoSeccion1.png";
-import gafas from "../../../../public/iconoGafasSeccion1.png";
-import romano from "../../../../public/iconoLuchadorRomanoSeccion1.png";
 import ChatSeccion1 from './ChatSeccion1';
 
 
